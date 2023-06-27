@@ -1,0 +1,6 @@
+train: /ai/train/code/yolov5-master/VOCdevkit/images/train
+val: /ai/train/code/yolov5-master/VOCdevkit/images/val
+
+nc: 1
+
+names: ['textarea']
