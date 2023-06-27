@@ -1,1 +1,1 @@
-下载对应的权重文件
+Download the corresponding weight files
